@@ -1434,7 +1434,7 @@
 	<key>ShowDimensionsInTitle</key>
 	<false/>
 	<key>TerminalType</key>
-	<string>xterm-256colour</string>
+	<string>xterm-256color</string>
 	<key>TextBoldColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
