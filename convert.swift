@@ -55,7 +55,7 @@ class ThemeConverter {
       let src = URL(fileURLWithPath: file).absoluteURL
       let theme = src.deletingPathExtension().lastPathComponent
       let dest = URL(fileURLWithPath: FileManager.default.currentDirectoryPath)
-        .appendingPathComponent("dist/\(theme).terminal")
+        .appendingPathComponent("themes/\(theme).terminal")
 
       do {
         try convert(theme: theme, src: src, dest: dest)
