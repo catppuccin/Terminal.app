@@ -36,18 +36,16 @@
 
 ## Usage
 
-1. Download your preferred flavour from `./dist`:
-  - [Latte](./dist/Latte.terminal)
-  - [Frappe](./dist/Frappe.terminal)
-  - [Macchiato](./dist/Macchiato.terminal)
-  - [Mocha](./dist/Mocha.terminal)
-2. Open Terminal's settings via <kbd>⌘ + ,</kbd>
-3. Open the tab "Profiles", and click on the `(...)` on the lower left, select "Import"
-4. Navigate to the file you just downloaded
+1. Download your preferred flavor from [`themes/`](./themes/).
+2. Open Terminal.app's settings with <kbd>⌘ + ,</kbd> (or through **Terminal** > **Settings...** in the menubar).
+3. Open the "Profiles" tab.
+4. Click on the `...` icon below the list of themes in the left panel, and select "Import...".
+5. Upload the file downloaded in Step 1.
 
 ## 💝 Thanks to
 
 - [winston](https://github.com/nekowinston)
+- [uncenter](https://github.com/uncenter)
 
 &nbsp;
 
