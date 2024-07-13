@@ -1,5 +1,3 @@
-#!/usr/bin/xcrun swift
-
 import AppKit
 
 class ThemeConverter {
